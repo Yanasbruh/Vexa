@@ -1,0 +1,14 @@
+.carousel-inner {
+  width: 1270px;
+  height: 600px;
+  margin: auto;
+}
+.carousel-item {
+  margin-top: -300px;
+}
+.banner {
+  background: url(vexanium.png);
+  background-size: cover;
+  padding-bottom: 100%;
+  color: white;
+}
